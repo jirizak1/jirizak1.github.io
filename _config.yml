@@ -21,10 +21,12 @@ author: Jiri Zak
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Research:
+    - Stellar obliquities: "https://www.markdowntutorial.com/"
+    - Exoplanetary atmosphere: "https://beautifuljekyll.com"
+    - Stellar science: "https://www.markdowntutorial.com/"
+    - PLATO: "https://www.markdowntutorial.com/"
+  Beyond research: "https://deanattali.com"
 
 ################
 # --- Logo --- #
