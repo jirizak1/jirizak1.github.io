@@ -21,13 +21,10 @@ author: Jiri Zak
 
 navbar-links:
   About Me: "aboutme"
-  Research interests:
-    - Stellar obliquities: "https://www.markdowntutorial.com/"
-    - Exoplanetary atmosphere: "https://beautifuljekyll.com"
-    - Stellar science: "https://www.markdowntutorial.com/"
-    - PLATO: "https://www.markdowntutorial.com/"
-  Beyond research: "https://deanattali.com"
-
+  Research: "research"
+  Publications: "publications"
+  Contact: "contact"
+timezone: Europe/Prague
 ################
 # --- Logo --- #
 ################
