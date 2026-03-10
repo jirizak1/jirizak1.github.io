@@ -2,7 +2,7 @@
 layout: page
 title: Jiri Zak
 subtitle: Exoplanets • Orbital Architectures • Stellar Obliquities
-bigimg: "/assets/img/path1.jpg"
+bigimg: "/assets/img/picweb.jpg"
 ---
 
 I am **Jiri Zak**, a researcher working on orbital architectures, stellar obliquities, and planetary evolution.
