@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Jiří Zak
 subtitle: Exoplanets • Orbital Architectures • Stellar Obliquities
 cover-img: /assets/img/picweb.jpg
