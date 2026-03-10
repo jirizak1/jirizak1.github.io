@@ -1,33 +1,25 @@
 ---
 layout: page
-title: Home
+title: Jiri Zak
 subtitle: Exoplanets • Orbital Architectures • Stellar Obliquities
+bigimg: "/assets/img/path1.png"
 ---
 
-## Welcome
+I am **Jiri Zak**, a researcher working on orbital architectures, stellar obliquities, and planetary evolution.
 
-I am Jiri Zak, a researcher working on orbital architectures, stellar obliquities, and planetary evolution.
+My research focuses on the formation, migration, and dynamical evolution of exoplanetary systems, with particular emphasis on stellar obliquities, resonant multiplanet systems, and the links between orbital architecture and planetary atmospheres.
 
-My research combines:
+## Current research
 
-- Rossiter–McLaughlin effect
-- Radial velocity observations
-- Asteroseismology
-- Planet migration theory
-- Atmospheric characterization
+- Rossiter–McLaughlin effect and stellar obliquities
+- Radial-velocity studies of exoplanet systems
+- Resonant and dynamically excited planetary architectures
+- Planet migration and post-disc evolution
+- Atmospheric characterization in the Ariel and JWST era
 
-## Current projects
+## Ongoing projects
 
-- Ariel Stellar Obliquity Group
+- Ariel Stellar Obliquity Working Group
 - PLATOSpec first science
-- Resonant multiplanet systems
-- Stellar parameters
-
-## Research interests
-
-Understanding how planetary systems form, migrate, and evolve through:
-
-- stellar obliquities
-- eccentric architectures
-- resonant chains
-- atmospheric constraints
+- Spin-orbit architecture of giant exoplanets
+- Dynamical pathways to misaligned and eccentric systems
