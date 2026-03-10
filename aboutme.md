@@ -1,14 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Welcome!
+title: About Me
 ---
 
-My name is Jiri Zak. I am a PostDoctoral researchers at the Czech Academy of Sciences in Ondrejov. Some (not all) of my research interest are:
+I am Jiri Zak, a postdoctoral researcher in exoplanetary science.
 
-- Exoplanets
-- Stellar variability
-- Stellar parameters
+My research focuses on:
 
+- orbital architectures of planetary systems  
+- stellar obliquity measurements  
+- migration pathways of giant planets  
+- atmospheric characterization  
 
-### Go see my Research tab to see more details about my science.
+I work with spectroscopic observations from instruments including:
+
+- HARPS  
+- HARPS-N  
+- ESPRESSO  
+- PLATOSpec  
+
+I am involved in several international collaborations related to Ariel, PLATO, and PLATOSpec.
