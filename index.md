@@ -7,7 +7,7 @@ cover-img: /assets/img/picweb.jpg
 
 # Welcome
 
-I am **Jiří Zak**, an exoplanet researcher working on orbital architectures, stellar obliquities, and planetary evolution.
+I am **Jiří Žák**, an exoplanet researcher working on orbital architectures, stellar obliquities, and planetary evolution.
 
 My research focuses on the formation, migration, and dynamical evolution of exoplanetary systems, with particular emphasis on:
 
