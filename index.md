@@ -19,7 +19,7 @@ My research focuses on the formation, migration, and dynamical evolution of exop
 
 ## Ongoing projects
 
-- Ariel Stellar Obliquity Working Group
+- Ariel Stellar Obliquity Group
 - PLATOSpec first science
 - Spin-orbit architecture of giant exoplanets
 - Dynamical pathways to misaligned and eccentric systems
