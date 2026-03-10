@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Jiri Zak
+title: Jiří Zak
 subtitle: Exoplanets • Orbital Architectures • Stellar Obliquities
 bigimg: "/assets/img/picweb.jpg"
 ---
 
-I am **Jiri Zak**, a researcher working on orbital architectures, stellar obliquities, and planetary evolution.
+I am **Jiří Zak**, a researcher working on orbital architectures, stellar obliquities, and planetary evolution.
 
-My research focuses on the formation, migration, and dynamical evolution of exoplanetary systems, with particular emphasis on stellar obliquities, resonant multiplanet systems, and the links between orbital architecture and planetary aatmospheres.
+My research focuses on the formation, migration, and dynamical evolution of exoplanetary systems, with particular emphasis on stellar obliquities, resonant multiplanet systems, and the links between orbital architecture and planetary atmospheres.
 
 ## Current research
 
