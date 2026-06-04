@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jiří Zak
+title: Jiří Žák
 subtitle: Exoplanets • Orbital Architectures • Stellar Obliquities
 cover-img: /assets/img/picweb.jpg
 ---
